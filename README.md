@@ -1,2 +1,2 @@
 # Objective
-To implement Google Page Rank Algorithm on FPGA.
+To implement Google Page Rank Algorithm on FPGA (Xilinx).
